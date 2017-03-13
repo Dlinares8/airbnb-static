@@ -1,0 +1,14 @@
+image_one:
+  title: Discover the best infernos!
+  info: Hell is the best place to stay
+  picture: globe.png
+
+catface:
+  title : Free! We don't need money
+  info : Your life will be enought
+  pictures: dollar.png
+
+image_two:
+  title : Love at every corner
+  info : Isn't is nice?
+  pictures: heart.png
